@@ -61,14 +61,4 @@ I'm a CS student passionate about systems programming, AI, and competitive progr
 
 
 
-##  **overview**
- 
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=omar-Mokhtar101&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
- 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-Mokhtar101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/omar-Mokhtar101)
- 
-</div>
-
----
 
