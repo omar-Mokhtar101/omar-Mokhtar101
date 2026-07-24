@@ -22,12 +22,12 @@
 
 ##  About Me
 
-I'm a CS student passionate about systems programming, AI, and competitive programming. I enjoy working close to the metal — whether that's building concurrent servers, implementing algorithms from scratch, or training ML models under hardware constraints.
+I'm a CS student passionate about systems programming, AI, and competitive programming. I enjoy working close to the metal  whether that's building concurrent servers, implementing algorithms from scratch, or training ML models under hardware constraints.
 
 
 ---
 
-##  Tech Stack
+
 
 ## 🛠️ Tech Stack
  
