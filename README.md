@@ -12,7 +12,7 @@
 
 **Computer Science Student ·software engineer**
 
-*Alamein International University *
+
 
 ![Location](https://img.shields.io/badge/📍-Alexandria%2C%20Egypt-green?style=flat-square)
 
